@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="instagram-wrapper">
+        <div class="instagrma-phone">
+            <img src="./img/instagram-celular.png" alt="celular">
+        </div>
+        <div class="instagram-continue">
+            <div class="group">
+                <img src="./img/instagram-logo.png" class="instagram-logo" alt="instagrma-logo">
+                <div class="profile´photo">
+                    <img src="./img/perfil-instagram.jpg" alt="foto de perfil">
+                </div>
+                <a href="#" class="instagram-login">Continu como</a>
+                <a href="#" class="instagram logout">Remover conta</a>
+            </div>
+        </div>
+
+</body>
+
+</html>
